@@ -1,0 +1,28 @@
+name: Punkt
+favicon: null
+layout_spectrum: 0.9835872910916805
+typography_spectrum: 0.056000100215896964
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.946205438580364
+  lightness: 0.9565116595476866
+  saturation: 0.9046836199704558
+  rhythmicContrast: 0.6136993067339063
+purpose: []
