@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Have you ever wondered about the difference between a product and a piece of art? Art involves you in its creation. It does not exist outside of your experience of it. And most importantly, art offers you the opportunity to transcend the daily condition of “you” as a separate entity apart from the world and apart from others. '
-datePublished: '2016-04-20T19:08:05.505Z'
-dateModified: '2016-04-20T19:07:36.155Z'
+datePublished: '2016-04-21T02:26:21.977Z'
+dateModified: '2016-04-21T02:26:04.110Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-20-have-you-ever-wondered-about-the-difference-between-a-produc.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-20-have-you-ever-wondered-about-the-difference-between-a-produc.md
-published: true
 url: have-you-ever-wondered-about-the-difference-between-a-produc/index.html
 _type: Article
 
